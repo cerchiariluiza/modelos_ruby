@@ -1,0 +1,1 @@
+bundle exec rails generate migration AddCpfCnpjRawCpfCnpjToAccount cpf_cnpj raw_cpf_cnpj  
